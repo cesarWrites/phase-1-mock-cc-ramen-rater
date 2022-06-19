@@ -100,3 +100,14 @@ form h4 {
   color: white;
   background-color: black;
 }
+
+#ulList{
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+}
+
+  #ulList li{
+    margin-right: 2%;
+  }
+  
